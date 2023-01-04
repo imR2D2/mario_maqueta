@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*Mariobros_navbar*/
+.link{
+    @apply text-white font-bold p-5 hover:text-yellow-500
+}
